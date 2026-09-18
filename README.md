@@ -17,4 +17,6 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./Screenshot_2026-09-18_15_18_17.png "Optional title")
+
+![Alt text](./Screenshot_2026-09-18_15_18_42.png "Optional title")
